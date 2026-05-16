@@ -20,9 +20,9 @@ ___
 
 ### Analytics, Reporting & Data Engineering
 
-**Power BI • DAX • Power Query • SQL Server • T-SQL • SSIS • SSRS • SSMS • PL/SQL • Oracle • Python • Azure DevOps • Power Automate • Power Apps • SharePoint • Confluence • ERwin • Data Modeling • Data Warehousing**
+**Power BI • DAX • Power Query • SQL Server • T-SQL • SSIS • SSRS • SSMS • PL/SQL • Oracle • Power Automate • Power Apps • SharePoint • Confluence • ERwin • Data Modeling • Data Warehousing**
 
-[![](https://skillicons.dev/icons?i=python,azure,github&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,erwin,powerbi,azure,github&theme=dark)](https://skillicons.dev)
 
 ---
 
